@@ -1,3 +1,6 @@
+//We have two reasons to edit the class 
+//i.e. one for the trackCalorie function and one for the printing function.
+
 class CalorieTracker{
     constructor(maxCalories){
         this.maxCalories = maxCalories

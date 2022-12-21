@@ -1,3 +1,6 @@
+//Here we have only one reason to edit the class i.e. the trackCalorie function
+//We have imported the print function from another module.
+
 import print from "./Printer.js"
 
 class CalorieTracker{
